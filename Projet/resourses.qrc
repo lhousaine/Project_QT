@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/annuler.png</file>
+        <file>images/arc.png</file>
+        <file>images/arrete.png</file>
+        <file>images/delete.png</file>
+        <file>images/enregistre.png</file>
+        <file>images/nouveaufichier.png</file>
+        <file>images/open.png</file>
+        <file>images/ouvrir.jpg</file>
+        <file>images/retablir.png</file>
+        <file>images/select.png</file>
+        <file>images/sommet.png</file>
+        <file>images/supp.png</file>
+    </qresource>
+</RCC>
